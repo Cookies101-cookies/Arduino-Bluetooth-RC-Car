@@ -51,7 +51,7 @@ This project allows you to drive the car forward, backward, left, right, diagona
 ## Schematics
 Here’s the wiring diagram for the project:  
 
-![Schematics](schematics.png)  
+![Schematics](schematics.jpeg)  
 
 *(Replace `schematics.png` with your actual schematic filename, e.g., `images/schematic.png`.)*
 
