@@ -60,8 +60,3 @@ Here’s the wiring diagram for the project:
 2. Pair your HC-05 Bluetooth module with your smartphone (default password: `1234` or `0000`).  
 3. Open a Bluetooth controller app (e.g., **Arduino Bluetooth Controller** or **Serial Bluetooth Terminal**).  
 4. Send commands from your phone to control the car.  
-
----
-
-## License
-This project is open-source under the MIT License. Feel free to use, modify, and share.  
